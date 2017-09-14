@@ -445,3 +445,67 @@ template {
 [hidden] {
   display: none;
 }
+
+/* start Belkisa CSS */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+	max-width: 1024px;
+    margin: 0 auto;
+    background-color: #FCFFF7;
+}
+
+.top {
+    background-color: #85CB33;
+    margin: 0;
+    padding: 10px;
+    color: #ffffff;
+    width: 100%;
+	max-width: 1024px;
+}
+
+h1 {
+    margin-bottom: 1px;
+}
+
+.subtitle {
+    margin-top: 1px;
+}
+
+.main_title {
+    margin-bottom: 1px;
+}
+
+p {
+    margin-top: 2px;
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+figcaption {
+    margin: auto;
+    width: 50%;
+}
+
+#list-heading {
+    margin-left: -20px;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.description {
+    width: 75%;
+}
+
+.stories {
+    background-color: #FCFFF7;
+    color: #323334;
+}
+
+
+
